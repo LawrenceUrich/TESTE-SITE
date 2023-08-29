@@ -107,8 +107,8 @@ body {
     }
     
     .content {
-      text-align: center;
-      margin-left: 0;
+      text-align: left;
+        margin: 0 20px;
     }
     
     .content h1 {
